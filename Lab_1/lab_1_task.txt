@@ -1,0 +1,13 @@
+Lab # 1
+NOTE. For this lab you need subsample with 3-5 random variables, at least half of them should be described with 
+continuous random variable type.
+
+Step 1. Choose subsample with main variables for your further analysis. Then for each of them:
+Step 2. You need to make a non-parametric estimation of PDF in form of histogram and using kernel density 
+function (or probability law in case of discrete RV).
+Step 3. You need to make an estimation of order statistics and represent them as “box with whiskers” plot.
+Step 4. Find one or several theoretical distributions that could describe your sample on a basis of 
+non-parametric analysis results. 
+Step 5. Estimate parameters of chosen distributions using methods of maximum likelihood and least squares method.
+Step 6. Validate your estimated parameters using QQ biplots.
+Step 7. Estimate  correctness of fitted distributions using at least 2 statistical tests.
