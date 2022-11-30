@@ -1,0 +1,14 @@
+Lab # 2
+NOTE. For this lab you need subsample with 5-10 random variables, at least half of them should be described with 
+continuous random variable type. Target variable should be continuous.
+
+Step 1. You need to make a non-parametric estimation of PDF in form of histogram and using kernel density function 
+for MRV (or probability law in case of discrete MRV) .
+Step 2. You need to make an estimation of multivariate mathematical expectation and variance.
+Step 3. You need to make a non-parametric estimation of conditional distributions, mathematical expectations and 
+variances. 
+Step 4. You need to make an estimation of pair correlation coefficients, confidence intervals for them and 
+significance levels.
+Step 5. Choose a task formulation for regression. Estimate multivariate correlation (target - predictors).
+Step 6. Build regression model and make an analysis of multicollinearity and regularization (if needed). 
+Step 7. Analyze the quality of regression model (distribution of residuals, determination coefficient).
