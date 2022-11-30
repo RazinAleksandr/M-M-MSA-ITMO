@@ -15,4 +15,5 @@ All used datasets are publicated in [Datasets folder](https://github.com/RazinAl
 
 ## Participants of the project
 * Aleksandr Razin: [RazinAleksandr](https://github.com/RazinAleksandr)
+* Michael Lovtskiy: [MichaelKae](https://github.com/MichaelKae)
 
