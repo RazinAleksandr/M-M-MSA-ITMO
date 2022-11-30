@@ -1,0 +1,13 @@
+Lab # 3
+
+Step 1. Choose variables for sampling from your dataset (overall – about 10 variables, 3-4 – target variables, 
+the rest - predictors).
+Step 2. Using univariate parametric distributions that were fitted in Lab#2 make sampling of chosen target variables. 
+Use for this 2 different sampling methods.
+Step 3. Estimate relations between predictors and chosen target variables. At least, they should have significant 
+correlation coefficients. 
+Step 4. Build a Bayesian network for chosen set of variables. Choose its structure on the basis of multivariate 
+analysis and train distributions in nodes using chosen algorithm.
+Step 5. Build a Bayesian network for the same set of variables but using 2 chosen algorithms for structural learning. 
+Step 6. Analyze a quality of sampled target variables from the point of view of problem statement 
+(e.g. prediction, gap filling, synthetic generation).
