@@ -1,0 +1,14 @@
+Lab # 4
+NOTE. For this lab you need subsample with timeseries, spatial fields or temporal spatial fields.
+
+Step 1. Choose about 3-6 variables from your dataset (2-3 – target variables, the rest - predictors).
+Step 2. Analyze stationarity of a process (for mathematical expectation and variance) for all chosen variables. 
+Make them more stationary if needed.
+Step 3. Analyze covariance or correlation function for chosen target variables and mutual correlation functions 
+among predictors and targets.
+Step 4. Filter high frequencies (noise) with chosen 2 filters for target variables.
+Step 5. Estimate spectral density function for with and without filtering.
+Step 6. Built auto-regression model filtered and non-filtered data. To analyze residual error and to define 
+appropriate order of model.
+Step 7. Build model in a form of linear dynamical system, using chosen predictors. To analyze residual error and to 
+define appropriate order of model.
