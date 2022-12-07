@@ -1,6 +1,7 @@
 ## Datasets info
 #### [UNCOVER COVID-19 Challenge](https://www.kaggle.com/datasets/roche-data-science-coalition/uncover)
-> covid_19.csv - This is the main dataset we used in [Lab_1](https://github.com/RazinAleksandr/M-M-MSA-ITMO/tree/main/Lab_1),  [Lab_2](https://github.com/RazinAleksandr/M-M-MSA-ITMO/tree/main/Lab_2) and [Lab_3](https://github.com/RazinAleksandr/M-M-MSA-ITMO/tree/main/Lab_3) (Categorical and continious data)
+> covid_19.csv - This is the main dataset we used in [Lab_1](https://github.com/RazinAleksandr/M-M-MSA-ITMO/tree/main/Lab_1),  [Lab_2](https://github.com/RazinAleksandr/M-M-MSA-ITMO/tree/main/Lab_2) and [Lab_3](https://github.com/RazinAleksandr/M-M-MSA-ITMO/tree/main/Lab_3) (Categorical and continious data)  
+
 > covid_19_ts.csv - This is the main dataset we used in [Lab_4](https://github.com/RazinAleksandr/M-M-MSA-ITMO/tree/main/Lab_4) (Time Series data)
 
 ### About
